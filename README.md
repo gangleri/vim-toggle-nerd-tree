@@ -1,3 +1,5 @@
+*DEPRECATED* I nolonger use this plugin, Nerd tree provides NERDTreeToggle
+
 # vim-toggle-nerd-tree
 My function to toggle display of Nerd tree window
 
